@@ -1,0 +1,17 @@
+*{
+    background-color: rgba(255, 255, 255, 0.994);
+    text-decoration: none;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    
+}
+
+h3{
+    font-weight: bolder;
+    font-weight: 600;
+    color: rgb(252, 204, 141);
+}
+li a{
+    color: rgb(255, 166, 1);
+}
